@@ -1,5 +1,5 @@
 # TrimBN
-This repository contains the code for the paper "[On Robust Trimming of Bayesian Network Classifiers http://starai.cs.ucla.edu/papers/ChoiIJCAI18.pdf]", published in IJCAI 2018.
+This repository contains the code for the paper "[On Robust Trimming of Bayesian Network Classifiers](http://starai.cs.ucla.edu/papers/ChoiIJCAI18.pdf)", published in IJCAI 2018.
 
 Run `make` to build the code.
 
